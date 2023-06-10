@@ -43,4 +43,5 @@ public class t_1 {
         }
         }
     
+Cat.greet;
 }
