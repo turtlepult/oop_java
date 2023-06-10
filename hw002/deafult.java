@@ -5,5 +5,5 @@ public interface deafult {
     default String ownerName() {
         return "Vanya";
     }
-        
+
 }
