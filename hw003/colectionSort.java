@@ -10,13 +10,3 @@ public class colectionSort {
         return list;
     }
 }
-
-
-public class ObjectSorter {
-    
-    public static <T> List<T> sort(List<T> objects, Comparator<T> comparator) {
-        Collections.sort(objects, comparator);
-        return objects;
-    }
-    
-}
